@@ -1,0 +1,28 @@
+{
+    "name": "hchinchilla/docker-composer",
+    "description": "Avoid ownership mismatch between project root and vendor dir",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Hchinchilla\\DockerComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hugo Chinchilla",
+            "email": "hugoasecas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=5.6.0",
+      "composer-plugin-api": "^2.0",
+      "ext-posix": "*"
+    },
+    "require-dev": {
+      "composer/composer": "^2.0"
+    },
+    "extra": {
+      "class": "Hchinchilla\\DockerComposer\\DockerComposerPlugin"
+    }
+}
