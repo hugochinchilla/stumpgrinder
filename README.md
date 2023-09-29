@@ -1,3 +1,5 @@
+# ⚠️ ⚠️ [This project has been renamed and moved to a new repo)(https://github.com/hugochinchilla/botanist) ⚠️ ⚠️
+
 # stumpgrinder
 
 [![Run test suite](https://github.com/hugochinchilla/stumpgrinder/actions/workflows/run-phpunit.yml/badge.svg)](https://github.com/hugochinchilla/stumpgrinder/actions/workflows/run-phpunit.yml)
