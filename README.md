@@ -1,4 +1,4 @@
-# ⚠️ ⚠️ [This project has been renamed and moved to a new repo)(https://github.com/hugochinchilla/botanist) ⚠️ ⚠️
+# ⚠️ ⚠️ [This project has been renamed and moved to a new repo](https://github.com/hugochinchilla/botanist) ⚠️ ⚠️
 
 # stumpgrinder
 
